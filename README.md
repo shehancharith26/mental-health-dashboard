@@ -1,5 +1,5 @@
 
-%%writefile README.md
+ README.md
 # Mental Health & Stress Level Prediction Platform
 
 An AI-powered diagnostic and predictive system that analyzes lifestyle, workplace dynamics, and demographic factors to evaluate mental health conditions and stress levels.
